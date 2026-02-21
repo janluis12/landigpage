@@ -24,4 +24,11 @@
 .item{
   text-decoration: none;
   padding: 10px;
+  color: black;
+}
+
+.item:hover{
+  background-color: black;
+  color: white;
+  border-radius: 8px;
 }
