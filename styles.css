@@ -8,3 +8,20 @@
 
 
 
+.navigator{
+  width: 100%;
+  background-color: burlywood;
+  padding: 10px;
+  
+}
+
+.item-nav{
+  display: flex;
+  list-style: none;
+  
+}
+
+.item{
+  text-decoration: none;
+  padding: 10px;
+}
