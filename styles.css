@@ -12,6 +12,7 @@
   width: 100%;
   background-color: burlywood;
   padding: 10px;
+  font-family: sans-serif;
   
 }
 
@@ -31,4 +32,12 @@
   background-color: red;
   color: white;
   border-radius: 8px;
+}
+
+.subtitle{
+  display: inline-block;
+  border: 1px solid red;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: sans-serif;
 }
